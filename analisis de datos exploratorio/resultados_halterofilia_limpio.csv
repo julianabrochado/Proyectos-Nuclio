@@ -1,0 +1,241 @@
+﻿Evento,Nombre,Apellido,Pais,Arrancada,Dos_Tiempos,Total,Año,Género
+55 kg (04.04),Anguel,Rusev,Bulgaria,111.0,147.0,258.0,2021,Masculino
+61 kg (04.04),Stilian,Grozdev,Bulgaria,136.0,160.0,296.0,2021,Masculino
+67 kg (05.04),Muhammed,Özbek,Turquía,145.0,178.0,323.0,2021,Masculino
+73 kg (06.04),Daniyar,İsmayilov,Turquía,160.0,181.0,341.0,2021,Masculino
+81 kg (07.04),Antonino,Pizzolato,Italia,164.0,206.0,370.0,2021,Masculino
+89 kg (08.04),Karen,Avaguian,Armenia,175.0,200.0,375.0,2021,Masculino
+96 kg (09.04),Anton,Pliesnoi,Georgia,180.0,213.0,393.0,2021,Masculino
+102 kg (10.04),Samvel,Gasparian,Armenia,176.0,214.0,390.0,2021,Masculino
+109 kg (10.04),Dmytro,Chumak,Ucrania,181.0,226.0,407.0,2021,Masculino
++109 kg (11.04),Lasha,Talajadze,Georgia,222.0,263.0,485.0,2021,Masculino
+45 kg (03.04),Nadezhda,Nguen,Bulgaria,72.0,83.0,155.0,2021,Femenino
+49 kg (03.04),Monica,Csengeri,Rumania,86.0,103.0,189.0,2021,Femenino
+55 kg (04.04),Kamila,Konotop,Ucrania,95.0,113.0,208.0,2021,Femenino
+59 kg (05.04),Boyanka,Kostova,Azerbaiyán,95.0,116.0,211.0,2021,Femenino
+64 kg (06.04),Loredana,Toma,Rumania,114.0,130.0,244.0,2021,Femenino
+71 kg (07.04),Emily,Godley,Reino Unido,98.0,129.0,227.0,2021,Femenino
+76 kg (08.04),Iryna,Deja,Ucrania,113.0,135.0,248.0,2021,Femenino
+81 kg (09.04),Alina,Marushchak,Ucrania,109.0,127.0,236.0,2021,Femenino
+87 kg (10.04),Daria,Ajmerova,Rusia,108.0,138.0,246.0,2021,Femenino
++87 kg (11.04),Emily,Campbell,Reino Unido,122.0,154.0,276.0,2021,Femenino
+55 kg (29.05),Anguel,Rusev,Bulgaria,113.0,144.0,257.0,2022,Masculino
+61 kg (29.05),Ivan,Dimov,Bulgaria,135.0,151.0,286.0,2022,Masculino
+67 kg (30.05),Valentin,Guenchev,Bulgaria,139.0,175.0,314.0,2022,Masculino
+73 kg (31.05),Muhammed,Özbek,Turquía,149.0,190.0,339.0,2022,Masculino
+81 kg (01.06),Rafik,Harutiunian,Armenia,160.0,194.0,354.0,2022,Masculino
+89 kg (02.06),Antonino,Pizzolato,Italia,175.0,217.0,392.0,2022,Masculino
+96 kg (03.06),Davit,Hovhannisian,Armenia,171.0,206.0,377.0,2022,Masculino
+102 kg (04.06),David,Fischerov,Bulgaria,177.0,215.0,392.0,2022,Masculino
+109 kg (04.06),Jristo,Jristov,Bulgaria,180.0,211.0,391.0,2022,Masculino
++109 kg (05.06),Lasha,Talajadze,Georgia,217.0,245.0,462.0,2022,Masculino
+45 kg (28.05),Şaziye,Erdoğan,Turquía,73.0,90.0,163.0,2022,Femenino
+49 kg (28.05),Giulia,Imperio,Italia,79.0,92.0,171.0,2022,Femenino
+55 kg (29.05),Evagjelia,Veli,Albania,95.0,113.0,208.0,2022,Femenino
+59 kg (30.05),Dora,Tchakounté,Francia,96.0,117.0,213.0,2022,Femenino
+64 kg (31.05),Mariya,Hanhur,Ucrania,102.0,120.0,222.0,2022,Femenino
+71 kg (01.06),Patricia,Strenius,Suecia,94.0,130.0,224.0,2022,Femenino
+76 kg (02.06),Marie,Fegue,Francia,110.0,135.0,245.0,2022,Femenino
+81 kg (03.06),Iryna,Deja,Ucrania,116.0,137.0,253.0,2022,Femenino
+87 kg (04.06),Solfrid,Koanda,Noruega,109.0,143.0,252.0,2022,Femenino
++87 kg (05.06),Emily,Campbell,Reino Unido,118.0,153.0,271.0,2022,Femenino
+55 kg (16.04),Anguel,Rusev,Bulgaria,109.0,141.0,250.0,2023,Masculino
+61 kg (16.04),Shota,Mishvelidze,Georgia,136.0,162.0,298.0,2023,Masculino
+67 kg (17.04),Gor,Sahakian,Armenia,145.0,175.0,320.0,2023,Masculino
+73 kg (18.04),Ritvars,Suharevs,Letonia,152.0,184.0,336.0,2023,Masculino
+81 kg (19.04),Oscar,Reyes Martínez,Italia,155.0,188.0,343.0,2023,Masculino
+89 kg (20.04),Karlos,Nasar,Bulgaria,174.0,221.0,395.0,2023,Masculino
+96 kg (21.04),Davit,Hovhannisian,Armenia,172.0,205.0,377.0,2023,Masculino
+102 kg (22.04),Garik,Karapetian,Armenia,178.0,214.0,392.0,2023,Masculino
+109 kg (22.04),Samvel,Gasparian,Armenia,175.0,220.0,395.0,2023,Masculino
++109 kg (23.04),Lasha,Talajadze,Georgia,222.0,252.0,474.0,2023,Masculino
+45 kg (15.04),Cansu,Bektaş,Turquía,72.0,90.0,162.0,2023,Femenino
+49 kg (15.04),Mihaela,Cambei,Rumania,92.0,106.0,198.0,2023,Femenino
+55 kg (16.04),Andreea,Cotruță,Rumania,91.0,110.0,201.0,2023,Femenino
+59 kg (17.04),Kamila,Konotop,Ucrania,106.0,129.0,235.0,2023,Femenino
+64 kg (18.04),Nuray,Güngör,Turquía,99.0,120.0,219.0,2023,Femenino
+71 kg (19.04),Loredana,Toma,Rumania,110.0,130.0,240.0,2023,Femenino
+76 kg (20.04),Marie,Fegue,Francia,113.0,140.0,253.0,2023,Femenino
+81 kg (21.04),Iryna,Deja,Ucrania,123.0,135.0,258.0,2023,Femenino
+87 kg (22.04),Solfrid,Koanda,Noruega,117.0,155.0,272.0,2023,Femenino
++87 kg (23.04),Emily,Campbell,Reino Unido,110.0,143.0,253.0,2023,Femenino
+55 kg (13.02),Anguel,Rusev,Bulgaria,109.0,135.0,244.0,2024,Masculino
+61 kg (13.02),Gabriel,Marinov,Bulgaria,121.0,160.0,281.0,2024,Masculino
+67 kg (14.02),Gor,Sahakian,Armenia,140.0,171.0,311.0,2024,Masculino
+73 kg (15.02),Bozhidar,Andreev,Bulgaria,155.0,193.0,348.0,2024,Masculino
+81 kg (16.02),Oscar,Reyes Martínez,Italia,155.0,191.0,346.0,2024,Masculino
+89 kg (17.02),Karlos,Nasar,Bulgaria,176.0,215.0,391.0,2024,Masculino
+96 kg (18.02),Hakob,Mkrtchian,Armenia,166.0,209.0,375.0,2024,Masculino
+102 kg (19.02),Yauheni,Tsijantsou,AIN,181.0,217.0,398.0,2024,Masculino
+109 kg (19.02),Dadaş,Dadaşbəyli,Azerbaiyán,176.0,212.0,388.0,2024,Masculino
++109 kg (20.02),Varazdat,Lalayan,Armenia,205.0,250.0,455.0,2024,Masculino
+45 kg (12.02),Cansu,Bektaş,Turquía,75.0,88.0,163.0,2024,Femenino
+49 kg (12.02),Mihaela,Cambei,Rumania,90.0,109.0,199.0,2024,Femenino
+55 kg (13.02),Alexandra,Grigorian,Armenia,81.0,115.0,196.0,2024,Femenino
+59 kg (14.02),Kamila,Konotop,Ucrania,105.0,125.0,230.0,2024,Femenino
+64 kg (15.02),Hanna,Davydova,Ucrania,100.0,120.0,220.0,2024,Femenino
+71 kg (16.02),Loredana,Toma,Rumania,114.0,127.0,241.0,2024,Femenino
+76 kg (17.02),Genna,Toko Kegne,Italia,101.0,120.0,221.0,2024,Femenino
+81 kg (18.02),Weronika,Zielińska-Stubińska,Polonia,103.0,132.0,235.0,2024,Femenino
+87 kg (19.02),Solfrid,Koanda,Noruega,120.0,160.0,280.0,2024,Femenino
++87 kg (20.02),Emily,Campbell,Reino Unido,112.0,151.0,263.0,2024,Femenino
+55 kg (04.04),Valentin,Iancu,Rumania,108.0,140.0,248.0,2021,Masculino
+61 kg (04.04),Shota,Mishvelidze,Georgia,135.0,155.0,290.0,2021,Masculino
+67 kg (05.04),Mirko,Zanni,Italia,148.0,170.0,318.0,2021,Masculino
+73 kg (06.04),Marin,Robu,Moldavia,156.0,183.0,339.0,2021,Masculino
+81 kg (07.04),Karlos,Nasar,Bulgaria,163.0,206.0,369.0,2021,Masculino
+89 kg (08.04),Revaz,Davitadze,Georgia,171.0,203.0,374.0,2021,Masculino
+96 kg (09.04),Piotr,Asayonak,Bielorrusia,172.0,202.0,374.0,2021,Masculino
+102 kg (10.04),Arsen,Martirosian,Armenia,171.0,209.0,380.0,2021,Masculino
+109 kg (10.04),Jristo,Jristov,Bulgaria,186.0,220.0,406.0,2021,Masculino
++109 kg (11.04),Gor,Minasian,Armenia,216.0,248.0,464.0,2021,Masculino
+45 kg (03.04),Ivana,Petrova,Bulgaria,67.0,85.0,152.0,2021,Femenino
+49 kg (03.04),Kristina,Sobol,Rusia,85.0,96.0,181.0,2021,Femenino
+55 kg (04.04),Svetlana,Yershova,Rusia,88.0,112.0,200.0,2021,Femenino
+59 kg (05.04),Olga,Tio,Rusia,95.0,115.0,210.0,2021,Femenino
+64 kg (06.04),Sarah,Davies,Reino Unido,101.0,129.0,230.0,2021,Femenino
+71 kg (07.04),Alessia,Durante,Italia,97.0,122.0,219.0,2021,Femenino
+76 kg (08.04),Yana,Sotiyeva,Rusia,112.0,134.0,246.0,2021,Femenino
+81 kg (09.04),Gaëlle,Nayo-Ketchanke,Francia,100.0,131.0,231.0,2021,Femenino
+87 kg (10.04),Elena,Cîlcic,Moldavia,107.0,138.0,245.0,2021,Femenino
++87 kg (11.04),Anastasiya,Lysenko,Ucrania,116.0,136.0,252.0,2021,Femenino
+55 kg (29.05),Josué,Brachi García,España,115.0,141.0,256.0,2022,Masculino
+61 kg (29.05),Simon,Brandhuber,Alemania,134.0,152.0,286.0,2022,Masculino
+67 kg (30.05),Shota,Mishvelidze,Georgia,142.0,165.0,307.0,2022,Masculino
+73 kg (31.05),Kaji,Asanidze,Georgia,150.0,176.0,326.0,2022,Masculino
+81 kg (01.06),Andrés,Mata Pérez,España,160.0,186.0,346.0,2022,Masculino
+89 kg (02.06),Karlos,Nasar,Bulgaria,171.0,211.0,382.0,2022,Masculino
+96 kg (03.06),Ara,Aghanian,Armenia,170.0,205.0,375.0,2022,Masculino
+102 kg (04.06),Samvel,Gasparian,Armenia,176.0,214.0,390.0,2022,Masculino
+109 kg (04.06),Guiorgui,Chjeidze,Georgia,174.0,210.0,384.0,2022,Masculino
++109 kg (05.06),Varazdat,Lalayan,Armenia,211.0,240.0,451.0,2022,Masculino
+45 kg (28.05),Cansu,Bektaş,Turquía,68.0,85.0,153.0,2022,Femenino
+49 kg (28.05),Anhelina,Lomachynska,Ucrania,80.0,87.0,167.0,2022,Femenino
+55 kg (29.05),Kamila,Konotop,Ucrania,94.0,11.0,207.0,2022,Femenino
+59 kg (30.05),Lucrezia,Magistris,Italia,98.0,114.0,212.0,2022,Femenino
+64 kg (31.05),Nuray,Güngör,Turquía,99.0,120.0,219.0,2022,Femenino
+71 kg (01.06),Lisa,Marie Schweizer,Alemania,103.0,120.0,223.0,2022,Femenino
+76 kg (02.06),Daniela,Ivanova,Letonia,96.0,126.0,222.0,2022,Femenino
+81 kg (03.06),Alina,Marushchak,Ucrania,108.0,127.0,235.0,2022,Femenino
+87 kg (04.06),Anastasiya,Manievska,Ucrania,107.0,130.0,237.0,2022,Femenino
++87 kg (05.06),Melike,Günal,Turquía,108.0,134.0,242.0,2022,Femenino
+55 kg (16.04),Ramin,Shamilishvili,Georgia,113.0,136.0,249.0,2023,Masculino
+61 kg (16.04),Sergio,Massidda,Italia,130.0,162.0,292.0,2023,Masculino
+67 kg (17.04),Acorán,Hernández Mendoza,España,140.0,165.0,305.0,2023,Masculino
+73 kg (18.04),David,Sánchez López,España,150.0,185.0,335.0,2023,Masculino
+81 kg (19.04),Batu,Han Yüksel,Turquía,152.0,187.0,339.0,2023,Masculino
+89 kg (20.04),Andranik,Karapetian,Armenia,178.0,196.0,374.0,2023,Masculino
+96 kg (21.04),Ara,Aghanian,Armenia,165.0,199.0,364.0,2023,Masculino
+102 kg (22.04),Irakli,Chjeidze,Georgia,173.0,214.0,387.0,2023,Masculino
+109 kg (22.04),Guiorgui,Chjeidze,Georgia,173.0,208.0,381.0,2023,Masculino
++109 kg (23.04),Varazdat,Lalayan,Armenia,212.0,250.0,462.0,2023,Masculino
+45 kg (15.04),Adriana,Pană,Rumania,70.0,83.0,153.0,2023,Femenino
+49 kg (15.04),Giulia,Imperio,Italia,83.0,100.0,183.0,2023,Femenino
+55 kg (16.04),Svitlana,Samuliak,Ucrania,90.0,109.0,199.0,2023,Femenino
+59 kg (17.04),Nina,Sterckx,Bélgica,93.0,116.0,209.0,2023,Femenino
+64 kg (18.04),Mariya,Hanhur,Ucrania,98.0,116.0,214.0,2023,Femenino
+71 kg (19.04),Giulia,Miserendino,Italia,105.0,125.0,230.0,2023,Femenino
+76 kg (20.04),Tatev,Hakobian,Armenia,104.0,122.0,226.0,2023,Femenino
+81 kg (21.04),Dilara,Narin,Turquía,101.0,134.0,235.0,2023,Femenino
+87 kg (22.04),Anastasiya,Manievska,Ucrania,108.0,130.0,238.0,2023,Femenino
++87 kg (23.04),Anastasiya,Hotfrid,Georgia,117.0,135.0,252.0,2023,Femenino
+55 kg (13.02),Ramin,Shamilishvili,Georgia,111.0,130.0,241.0,2024,Masculino
+61 kg (13.02),Ivan,Dimov,Bulgaria,130.0,150.0,280.0,2024,Masculino
+67 kg (14.02),Kaan,Kahriman,Turquía,142.0,168.0,310.0,2024,Masculino
+73 kg (15.02),Muhammed,Özbek,Turquía,150.0,186.0,336.0,2024,Masculino
+81 kg (16.02),Kristi,Ramadani,Albania,151.0,190.0,341.0,2024,Masculino
+89 kg (17.02),Antonino,Pizzolato,Italia,170.0,210.0,380.0,2024,Masculino
+96 kg (18.02),Davit,Hovhannisian,Armenia,169.0,205.0,374.0,2024,Masculino
+102 kg (19.02),Samvel,Gasparian,Armenia,180.0,216.0,396.0,2024,Masculino
+109 kg (19.02),Jristo,Jristov,Bulgaria,175.0,205.0,380.0,2024,Masculino
++109 kg (20.02),Simon,Martirosian,Armenia,190.0,247.0,437.0,2024,Masculino
+45 kg (12.02),Gamze,Altun,Turquía,65.0,92.0,157.0,2024,Femenino
+49 kg (12.02),Oliwia,Drzazga,Polonia,74.0,96.0,170.0,2024,Femenino
+55 kg (13.02),Celine,Delia,Italia,84.0,111.0,195.0,2024,Femenino
+59 kg (14.02),Dora,Tchakounté,Francia,98.0,117.0,215.0,2024,Femenino
+64 kg (15.02),Svitlana,Samuliak,Ucrania,101.0,118.0,219.0,2024,Femenino
+71 kg (16.02),Siuzanna,Valodzka,AIN,105.0,130.0,235.0,2024,Femenino
+76 kg (17.02),Nikol,Rubanovich,Israel,99.0,117.0,216.0,2024,Femenino
+81 kg (18.02),Elena,Erighina,Moldavia,103.0,131.0,234.0,2024,Femenino
+87 kg (19.02),Anastasiya,Manievska,Ucrania,102.0,128.0,230.0,2024,Femenino
++87 kg (20.02),Anastasiya,Hotfrid,Georgia,117.0,140.0,257.0,2024,Femenino
+55 kg (04.04),Dmytro,Voronovsky,Ucrania,110.0,137.0,247.0,2021,Masculino
+61 kg (04.04),Ferdi,Hardal,Turquía,130.0,157.0,287.0,2021,Masculino
+67 kg (05.04),Valentin,Guenchev,Bulgaria,138.0,177.0,315.0,2021,Masculino
+73 kg (06.04),Briken,Calja,Albania,152.0,184.0,336.0,2021,Masculino
+81 kg (07.04),Ritvars,Suharevs,Letonia,157.0,190.0,347.0,2021,Masculino
+89 kg (08.04),Andranik,Karapetian,Armenia,170.0,195.0,365.0,2021,Masculino
+96 kg (09.04),Hakob,Mkrtchian,Armenia,160.0,212.0,372.0,2021,Masculino
+102 kg (10.04),Dadaş,Dadaşbəyli,Azerbaiyán,177.0,202.0,379.0,2021,Masculino
+109 kg (10.04),Timur,Naniyev,Rusia,184.0,217.0,401.0,2021,Masculino
++109 kg (11.04),Varazdat,Lalayan,Armenia,205.0,240.0,445.0,2021,Masculino
+45 kg (03.04),Melisa,Güneş,Turquía,68.0,83.0,151.0,2021,Femenino
+49 kg (03.04),Mihaela,Cambei,Rumania,80.0,100.0,180.0,2021,Femenino
+55 kg (04.04),Nina,Sterckx,Bélgica,88.0,109.0,197.0,2021,Femenino
+59 kg (05.04),Dora,Tchakounté,Francia,95.0,115.0,210.0,2021,Femenino
+64 kg (06.04),Anastasiya,Anzorova,Rusia,100.0,122.0,222.0,2021,Femenino
+71 kg (07.04),Raluca,Olaru,Rumania,98.0,120.0,218.0,2021,Femenino
+76 kg (08.04),Anastasiya,Romanova,Rusia,111.0,132.0,243.0,2021,Femenino
+81 kg (09.04),Liana,Guiurdzhian,Armenia,98.0,129.0,227.0,2021,Femenino
+87 kg (10.04),Daria,Riazanova,Rusia,105.0,135.0,240.0,2021,Femenino
++87 kg (11.04),Melike,Günal,Turquía,108.0,135.0,243.0,2021,Femenino
+55 kg (29.05),Dmytro,Voronovsky,Ucrania,108.0,134.0,242.0,2022,Masculino
+61 kg (29.05),Gabriel,Marinov,Bulgaria,122.0,157.0,279.0,2022,Masculino
+67 kg (30.05),Acorán,Hernández Mendoza,España,138.0,161.0,299.0,2022,Masculino
+73 kg (31.05),Piotr,Kudłaszyk,Polonia,143.0,181.0,324.0,2022,Masculino
+81 kg (01.06),Bozhidar,Andreev,Bulgaria,153.0,190.0,343.0,2022,Masculino
+89 kg (02.06),Revaz,Davitadze,Georgia,171.0,198.0,369.0,2022,Masculino
+96 kg (03.06),Romain,Imadouchène,Francia,160.0,210.0,370.0,2022,Masculino
+102 kg (04.06),Marcos,Ruiz Velasco,España,176.0,208.0,384.0,2022,Masculino
+109 kg (04.06),Arsen,Martirosian,Armenia,170.0,201.0,371.0,2022,Masculino
++109 kg (05.06),Gor,Minasian,Armenia,210.0,236.0,446.0,2022,Masculino
+45 kg (28.05),Radmila,Zagorac,Serbia,68.0,84.0,152.0,2022,Femenino
+49 kg (28.05),María,Giménez-Guervos,España,72.0,91.0,163.0,2022,Femenino
+55 kg (29.05),Nina,Sterckx,Bélgica,94.0,111.0,205.0,2022,Femenino
+59 kg (30.05),Ine,Andersson,Noruega,90.0,118.0,208.0,2022,Femenino
+64 kg (31.05),Vicky,Graillot,Francia,89.0,119.0,208.0,2022,Femenino
+71 kg (01.06),Monika,Marach,Polonia,99.0,116.0,215.0,2022,Femenino
+76 kg (02.06),Dilara,Ucan,Turquía,99.0,121.0,220.0,2022,Femenino
+81 kg (03.06),Dilara,Narin,Turquía,99.0,133.0,232.0,2022,Femenino
+87 kg (04.06),Anastasiya,Hotfrid,Georgia,106.0,129.0,235.0,2022,Femenino
++87 kg (05.06),Sarah,Fischer,Austria,102.0,128.0,230.0,2022,Femenino
+55 kg (16.04),Valentin,Iancu,Rumania,109.0,136.0,245.0,2023,Masculino
+61 kg (16.04),Ivan,Dimov,Bulgaria,127.0,150.0,277.0,2023,Masculino
+67 kg (17.04),Kaan,Kahriman,Turquía,141.0,160.0,301.0,2023,Masculino
+73 kg (18.04),Mirko,Zanni,Italia,155.0,180.0,335.0,2023,Masculino
+81 kg (19.04),Rafik,Harutiunian,Armenia,150.0,187.0,337.0,2023,Masculino
+89 kg (20.04),Marin,Robu,Moldavia,166.0,198.0,364.0,2023,Masculino
+96 kg (21.04),Cristiano,Ficco,Italia,165.0,198.0,363.0,2023,Masculino
+102 kg (22.04),Tudor,Bratu,Moldavia,170.0,204.0,374.0,2023,Masculino
+109 kg (22.04),Petros,Petrosian,Armenia,165.0,214.0,379.0,2023,Masculino
++109 kg (23.04),Simon,Martirosian,Armenia,195.0,245.0,440.0,2023,Masculino
+45 kg (15.04),Marta,García Rincón,España,68.0,85.0,153.0,2023,Femenino
+49 kg (15.04),Anhelina,Lomachynska,Ucrania,81.0,95.0,176.0,2023,Femenino
+55 kg (16.04),Izabella,Yailian,Armenia,87.0,109.0,196.0,2023,Femenino
+59 kg (17.04),Nadiya,Shpylka,Ucrania,93.0,114.0,207.0,2023,Femenino
+64 kg (18.04),Zoe,Smith,Reino Unido,93.0,121.0,214.0,2023,Femenino
+71 kg (19.04),Sarah,Davies,Reino Unido,100.0,126.0,226.0,2023,Femenino
+76 kg (20.04),Daniela,Ivanova,Letonia,96.0,126.0,222.0,2023,Femenino
+81 kg (21.04),Elena,Erighina,Moldavia,104.0,130.0,234.0,2023,Femenino
+87 kg (22.04),Hripsime,Jurshudian,Armenia,107.0,120.0,227.0,2023,Femenino
++87 kg (23.04),Valentyna,Kisil,Ucrania,111.0,133.0,244.0,2023,Femenino
+55 kg (13.02),Dzhan,Zarkov,Bulgaria,102.0,133.0,235.0,2024,Masculino
+61 kg (13.02),Shota,Mishvelidze,Georgia,125.0,147.0,272.0,2024,Masculino
+67 kg (14.02),Ferdi,Hardal,Turquía,135.0,169.0,304.0,2024,Masculino
+73 kg (15.02),Ritvars,Suharevs,Letonia,154.0,177.0,331.0,2024,Masculino
+81 kg (16.02),Rafik,Harutiunian,Armenia,154.0,182.0,336.0,2024,Masculino
+89 kg (17.02),Marin,Robu,Moldavia,171.0,207.0,378.0,2024,Masculino
+96 kg (18.02),Pavel,Jadasevich,AIN,165.0,195.0,360.0,2024,Masculino
+102 kg (19.02),Garik,Karapetian,Armenia,182.0,212.0,394.0,2024,Masculino
+109 kg (19.02),Matthäus,Hofmann,Alemania,172.0,206.0,378.0,2024,Masculino
++109 kg (20.02),Eduard,Ziaziulin,AIN,195.0,241.0,436.0,2024,Masculino
+45 kg (12.02),Marta,García Rincón,España,72.0,84.0,156.0,2024,Femenino
+49 kg (12.02),Tham,Nguyen,Irlanda,74.0,95.0,169.0,2024,Femenino
+55 kg (13.02),Sol,Anette Waaler,Noruega,86.0,104.0,190.0,2024,Femenino
+59 kg (14.02),Saara,Retulainen,Finlandia,95.0,119.0,214.0,2024,Femenino
+64 kg (15.02),Wiktoria,Wołk,Polonia,94.0,121.0,215.0,2024,Femenino
+71 kg (16.02),Lisa,Marie Schweizer,Alemania,107.0,124.0,231.0,2024,Femenino
+76 kg (17.02),Lara,Dancz,Alemania,101.0,114.0,215.0,2024,Femenino
+81 kg (18.02),Dilara,Narin,Turquía,97.0,125.0,222.0,2024,Femenino
+87 kg (19.02),Hripsime,Jurshudian,Armenia,105.0,122.0,227.0,2024,Femenino
++87 kg (20.02),Fatmagül,Çevik,Turquía,107.0,131.0,238.0,2024,Femenino
